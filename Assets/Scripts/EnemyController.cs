@@ -6,6 +6,7 @@ public class EnemyController : MonoBehaviour
     void Start()
     {
         Debug.Log("Enemy has started");
+        Debug.Log("Enemy has started2");
     }
 
     // Update is called once per frame
